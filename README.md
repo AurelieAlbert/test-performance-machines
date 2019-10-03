@@ -33,8 +33,8 @@ The results are :
         </tr>
         <tr>
             <td>HPC occigen CINES</td>
-            <td>8 cores - 34Gb</td>
-            <td>9.53s</td>
+            <td>48 cores - 135Gb</td>
+            <td>37min</td>
         </tr>
         <tr>
             <td>PANGEO cloud</td>
@@ -59,8 +59,8 @@ The results are :
         </tr>
         <tr>
             <td>HPC occigen CINES</td>
-            <td>8 cores - 34Gb</td>
-            <td>9.53s</td>
+            <td>48 cores - 135Gb</td>
+            <td>10s</td>
         </tr>
         <tr>
             <td>PANGEO cloud</td>
@@ -80,13 +80,13 @@ The results are :
         </tr>
         <tr>
             <td>HPC hal CNES</td>
-            <td>8 cores - 34Gb</td>
-            <td>9.53s</td>
+            <td>48 cores - 240Gb</td>
+            <td>18min</td>
         </tr>
         <tr>
             <td>HPC occigen CINES</td>
-            <td>48 cores - 240Gb</td>
-            <td>18min</td>
+            <td>48 cores - 135Gb</td>
+            <td>12min</td>
         </tr>
         <tr>
             <td>PANGEO cloud</td>
