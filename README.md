@@ -65,13 +65,13 @@ The results are :
         <tr>
             <td>PANGEO cloud</td>
             <td>20 cores - 115Gb</td>
-            <td>9.53s</td>
+            <td>8min</td>
         </tr>
         <tr>
             <td rowspan=5>Wavenumber-frequency spectrum of KE </td>
              <td>Personnal Computer</td>
              <td>8 cores - 34Gb</td>
-             <td>9.53s</td>
+             <td> X </td>
         </tr>
         <tr>
             <td>Cluster cal1</td>
@@ -91,7 +91,7 @@ The results are :
         <tr>
             <td>PANGEO cloud</td>
             <td>20 cores - 115Gb</td>
-            <td>9.53s</td>
+            <td>22min</td>
         </tr>
     </tbody>
 </table>
