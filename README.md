@@ -71,12 +71,12 @@ The results are :
             <td rowspan=5>Wavenumber-frequency spectrum of KE </td>
              <td>Personnal Computer</td>
              <td>8 cores - 34Gb</td>
-             <td> X </td>
+             <td> Memory Error </td>
         </tr>
         <tr>
             <td>Cluster cal1</td>
             <td>20 cores - 62Gb</td>
-            <td> X </td>
+            <td> Memory Error </td>
         </tr>
         <tr>
             <td>HPC hal CNES</td>
