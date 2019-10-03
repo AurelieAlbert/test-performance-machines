@@ -4,43 +4,37 @@ In this repo a collection of notebooks that have been run on various machine : l
 
 The results are :
 
-| Operation | Machine | Ressources | Timing |
-|-----------|---------|------------|---------|
-| Opening of netcdf -  10Tb | Personnal Computer | 8 cores - 34Gb | 9.53s |
-| Opening of netcdf -  10Tb | Cluster cal1 | 8 cores - 34Gb | 9.53s |
-| Opening of netcdf -  10Tb | HPC hal CNES | 8 cores - 34Gb | 9.53s |
-| Opening of netcdf -  10Tb | HPC occigen CINES | 8 cores - 34Gb | 9.53s |
-|-----------|---------|-----------|--------------|
-| Opening of netcdf -  10Tb | Personnal Computer | 8 cores - 34Gb | 9.53s |
-| Opening of netcdf -  10Tb | Cluster cal1 | 8 cores - 34Gb | 9.53s |
-| Opening of netcdf -  10Tb | HPC hal CNES | 8 cores - 34Gb | 9.53s |
-| Opening of netcdf -  10Tb | HPC occigen CINES | 8 cores - 34Gb | 9.53s |
-|-----------|---------|-----------|--------------|
-
 
 <table>
     <thead>
         <tr>
-            <th>Layer 1</th>
-            <th>Layer 2</th>
-            <th>Layer 3</th>
+            <th>Operation</th>
+            <th>Machine</th>
+            <th>Ressources</th>
+            <th>Timing</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td rowspan=4>L1 Name</td>
-            <td rowspan=2>L2 Name A</td>
-            <td>L3 Name A</td>
+            <td rowspan=4>Opening of netcdf -  10Tb</td>
+             <td>Personnal Computer</td>
+             <td>8 cores - 34Gb</td>
+             <td>9.53s</td>
         </tr>
         <tr>
-            <td>L3 Name B</td>
+            <td>Cluster cal1</td>
+            <td>8 cores - 34Gb</td>
+            <td>9.53s</td>
         </tr>
         <tr>
-            <td rowspan=2>L2 Name B</td>
-            <td>L3 Name C</td>
+            <td>HPC hal CNES</td>
+            <td>8 cores - 34Gb</td>
+            <td>9.53s</td>
         </tr>
         <tr>
-            <td>L3 Name D</td>
+            <td>HPC occigen CINES</td>
+            <td>8 cores - 34Gb</td>
+            <td>9.53s</td>
         </tr>
-    </tbody>
+     </tbody>
 </table>
